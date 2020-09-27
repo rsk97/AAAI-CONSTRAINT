@@ -1,3 +1,11 @@
-# Meta-Sentiment
+# Constraint Shared Task
 
-#### Drive Link : https://drive.google.com/drive/folders/1BLqrhUjcG0ok3fJf2EF7c8rfAiUeCMkZ
+## Fake News
+
+### Resources
+
+## Profanity/hostility on Devanagri
+
+### Resources
+
+### Common Drive Link : 
